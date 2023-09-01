@@ -1,0 +1,33 @@
+ html, body{
+    margin: 0;
+ }
+ #imagem_fundo{
+    background: url(fotodefundo1693416274574\ \(3\).jpg);
+height: 100%;
+ text-align: center;
+}
+ #titulo{
+    color: white;
+ padding-top: 20%;
+font-size: 60px;
+}
+ #subtitulo{
+    color: white;
+ padding-left: 20%;
+padding-left: 20%;
+}
+#acao{
+   color: white;
+border: 1px white solid;
+padding: 10px 20px 10px 2opx ;
+
+}
+.icone{
+   width: 100px;
+}
+#ODS{
+   padding: 20PX;
+}
+.destaque {
+   background-color: white;
+}
